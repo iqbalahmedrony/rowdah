@@ -1,0 +1,33 @@
+{
+  "name": "rowdah",
+  "version": "1.0.0",
+  "description": "This site is my doughters portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqbalahmedrony/rowdah.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Iqbal Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iqbalahmedrony/rowdah/issues"
+  },
+  "homepage": "https://github.com/iqbalahmedrony/rowdah#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.1.0"
+  }
+}
